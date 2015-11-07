@@ -1,0 +1,4 @@
+C:\Users\Diana\Desktop\2uzdevums\2uzdevums\bin\Debug\2uzdevums.exe
+C:\Users\Diana\Desktop\2uzdevums\2uzdevums\bin\Debug\2uzdevums.pdb
+C:\Users\Diana\Desktop\2uzdevums\2uzdevums\obj\x86\Debug\2uzdevums.exe
+C:\Users\Diana\Desktop\2uzdevums\2uzdevums\obj\x86\Debug\2uzdevums.pdb
